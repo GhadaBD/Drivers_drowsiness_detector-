@@ -6,7 +6,7 @@ import time
 
 font = cv2.FONT_HERSHEY_COMPLEX_SMALL
 mixer.init()
-sound = mixer.Sound('alarm2.mp3')
+sound = mixer.Sound('alarm.mp3')
 score=0
 f=0  #if the alarm is opned
 
