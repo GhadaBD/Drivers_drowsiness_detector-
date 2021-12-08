@@ -14,7 +14,7 @@ mixer.init()
 sound = mixer.Sound('alarm.mp3')
 score = 0
 f = 0
-g = 0
+
 
 
 def calculate_EAR(eye):
